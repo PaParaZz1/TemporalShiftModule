@@ -1,0 +1,2 @@
+# TemporalShiftModule
+pytorch implementation for TemporalShiftModule
